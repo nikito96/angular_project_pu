@@ -1,8 +1,22 @@
 #form {
   text-align: center;
-  margin-top: 100px;
-  margin-right: 200px;
-  margin-left: 200px;
-  text-align: center;
+  background-color: #dce6f7;
+  margin: 0 auto;
   border: solid 5px #97b9ef;
+  width: 50%;
+}
+input[type="text"]{
+  margin: 10px;
+  background-color: #4286f4;
+  color: white;
+}
+input[type="submit"]{
+  margin-bottom: 10px;
+  background-color: #4286f4;
+  color: white;
+  padding: 5px;
+}
+h1 {
+  text-align: center;
+  color: #4286f4;
 }
